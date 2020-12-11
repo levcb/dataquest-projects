@@ -1,2 +1,2 @@
 # dataquest-projects
-Dataquest projects/solutions
+Dataquest projects and solutions.
